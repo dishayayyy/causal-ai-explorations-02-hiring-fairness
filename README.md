@@ -2,8 +2,7 @@
 
 > This is Part 2 of my Causal AI Explorations series, where I work through real datasets to build intuition for causal reasoning. Each entry picks a question that correlation alone can't answer.
 
-→ [Part 1: Does High Blood Sugar Cause Heart Disease?](https://github.com/yourusername/causal-ai-explorations-01-healthcare)
-
+→ [Part 1: Does High Blood Sugar Cause Heart Disease?](https://github.com/dishayayyy/causal-ai-explorations-01-healthcare)
 ---
 
 ## What I Wanted to Learn
@@ -89,4 +88,4 @@ This was the clearest demonstration I've seen of why you need causal methods for
 ## Series
 This is Part 2 of Causal AI Explorations.
 
-→ [Part 1: Does High Blood Sugar Cause Heart Disease?](https://github.com/yourusername/causal-ai-explorations-01-healthcare)
+→ [Part 1: Does High Blood Sugar Cause Heart Disease?](https://github.com/dishayayyy/causal-ai-explorations-01-healthcare)
